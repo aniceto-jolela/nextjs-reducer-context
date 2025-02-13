@@ -1,5 +1,5 @@
-# React / Reducer and Context
-This website is an e-commerce on the client side, its goal is to show the power of `Reducer` and `Context` on `Reactjs`.  
+# Nextjs / Reducer and Context
+This website is an e-commerce on the client side, its goal is to show the power of `Reducer` and `Context` on `Nextjs`.  
 I didn't use backend or database. I only did the `front-end for this e-commerce`.
 
 ###### 🌐 Website - [waiting...]
@@ -35,9 +35,20 @@ Not:
 - Ubuntu (Operating System)
 - Firefox (Browser)
 - Visual Studio Code (IDE)
-- React (Front-end library)
+- Nextjs (Front-end library)
 - Mui (Material UI)
 - Netlify
+
+### Installation
+1.
+```bash pnpm
+#(as your package manager, as it's faster and more efficient than `npm` or `yarn`.)
+npm install -g pnpm
+```
+2.
+```bash
+npx create-next-app@latest
+```
 
 #
 ### 🔗 References
