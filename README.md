@@ -36,16 +36,31 @@ Not:
 - Firefox (Browser)
 - Visual Studio Code (IDE)
 - Nextjs (Front-end library)
-- Mui (Material UI)
+- tailwind CSS
 - Netlify
 
-### Installation
-1.
+### Install dependencies:
+- react
+- react-dom
+- next
+
+### Install devDependencies:
+- typescript
+- @types/node
+- @types/react
+- @types/react-dom
+- postcss
+- tailwindcss
+- eslint
+- eslint-config-next
+- @eslint/eslintrc
+
+
 ```bash pnpm
 #(as your package manager, as it's faster and more efficient than `npm` or `yarn`.)
 npm install -g pnpm
 ```
-2.
+
 ```bash
 npx create-next-app@latest
 ```
