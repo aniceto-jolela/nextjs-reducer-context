@@ -74,6 +74,7 @@ npx create-next-app@latest
 > [!CAUTION]
 > Unfortunately I will not continue this Frontand project because I have to study the `Rust` programming language.
 
-> [!INFO]
+> [!NOTE]
 > Perhaps in the future I will continue.
+
 <p style="text-align: center;">✋🏻🛑⛔️ 🚧</p>
